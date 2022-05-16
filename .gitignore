@@ -1,1 +1,5 @@
 # 忽略 doc 文件
+
+
+# git push -u origin main 表示第一次朝仓图提交的时候
+# 修改完代码之后只需要 git push
